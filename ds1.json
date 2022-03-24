@@ -1,0 +1,122 @@
+[
+   {
+      "industry": "MiningAndQuarrying",
+      "values": {
+         "http://coursework.org/data/Total": "28^^http://www.w3.org/2001/XMLSchema#integer",
+         "http://coursework.org/data/WorkforceSizeless250": "15^^http://www.w3.org/2001/XMLSchema#integer",
+         "http://coursework.org/data/WorkforceSizemore250": "13^^http://www.w3.org/2001/XMLSchema#integer"
+      }
+   },
+   {
+      "industry": "Manufacturing",
+      "values": {
+         "http://coursework.org/data/WorkforceSizeless250": "1785^^http://www.w3.org/2001/XMLSchema#integer",
+         "http://coursework.org/data/WorkforceSizemore250": "1370^^http://www.w3.org/2001/XMLSchema#integer",
+         "http://coursework.org/data/Total": "3155^^http://www.w3.org/2001/XMLSchema#integer"
+      }
+   },
+   {
+      "industry": "CityOfWaterSupply",
+      "values": {
+         "http://coursework.org/data/Total": "201^^http://www.w3.org/2001/XMLSchema#integer",
+         "http://coursework.org/data/WorkforceSizeless250": "130^^http://www.w3.org/2001/XMLSchema#integer",
+         "http://coursework.org/data/WorkforceSizemore250": "71^^http://www.w3.org/2001/XMLSchema#integer"
+      }
+   },
+   {
+      "industry": "Construction",
+      "values": {
+         "http://coursework.org/data/WorkforceSizemore250": "312^^http://www.w3.org/2001/XMLSchema#integer",
+         "http://coursework.org/data/Total": "1034^^http://www.w3.org/2001/XMLSchema#integer",
+         "http://coursework.org/data/WorkforceSizeless250": "722^^http://www.w3.org/2001/XMLSchema#integer"
+      }
+   },
+   {
+      "industry": "WholesaleAndRetailTradeRepairOfMotorVehiclesAndMotorcycles",
+      "values": {
+         "http://coursework.org/data/WorkforceSizeless250": "1819^^http://www.w3.org/2001/XMLSchema#integer",
+         "http://coursework.org/data/WorkforceSizemore250": "1180^^http://www.w3.org/2001/XMLSchema#integer",
+         "http://coursework.org/data/Total": "2999^^http://www.w3.org/2001/XMLSchema#integer"
+      }
+   },
+   {
+      "industry": "TransportationAndStorage",
+      "values": {
+         "http://coursework.org/data/WorkforceSizemore250": "335^^http://www.w3.org/2001/XMLSchema#integer",
+         "http://coursework.org/data/WorkforceSizeless250": "528^^http://www.w3.org/2001/XMLSchema#integer",
+         "http://coursework.org/data/Total": "863^^http://www.w3.org/2001/XMLSchema#integer"
+      }
+   },
+   {
+      "industry": "InformationAndCommunication",
+      "values": {
+         "http://coursework.org/data/WorkforceSizeless250": "794^^http://www.w3.org/2001/XMLSchema#integer",
+         "http://coursework.org/data/Total": "1216^^http://www.w3.org/2001/XMLSchema#integer",
+         "http://coursework.org/data/WorkforceSizemore250": "422^^http://www.w3.org/2001/XMLSchema#integer"
+      }
+   },
+   {
+      "industry": "RealEstateActivities",
+      "values": {
+         "http://coursework.org/data/WorkforceSizemore250": "88^^http://www.w3.org/2001/XMLSchema#integer",
+         "http://coursework.org/data/WorkforceSizeless250": "112^^http://www.w3.org/2001/XMLSchema#integer",
+         "http://coursework.org/data/Total": "200^^http://www.w3.org/2001/XMLSchema#integer"
+      }
+   },
+   {
+      "industry": "CityOfProfessional",
+      "values": {
+         "http://coursework.org/data/Total": "2023^^http://www.w3.org/2001/XMLSchema#integer",
+         "http://coursework.org/data/WorkforceSizemore250": "720^^http://www.w3.org/2001/XMLSchema#integer",
+         "http://coursework.org/data/WorkforceSizeless250": "1303^^http://www.w3.org/2001/XMLSchema#integer"
+      }
+   },
+   {
+      "industry": "AdministrativeAndSupportServiceActivities",
+      "values": {
+         "http://coursework.org/data/Total": "2359^^http://www.w3.org/2001/XMLSchema#integer",
+         "http://coursework.org/data/WorkforceSizemore250": "1072^^http://www.w3.org/2001/XMLSchema#integer",
+         "http://coursework.org/data/WorkforceSizeless250": "1287^^http://www.w3.org/2001/XMLSchema#integer"
+      }
+   },
+   {
+      "industry": "Education",
+      "values": {
+         "http://coursework.org/data/WorkforceSizemore250": "457^^http://www.w3.org/2001/XMLSchema#integer",
+         "http://coursework.org/data/WorkforceSizeless250": "303^^http://www.w3.org/2001/XMLSchema#integer",
+         "http://coursework.org/data/Total": "760^^http://www.w3.org/2001/XMLSchema#integer"
+      }
+   },
+   {
+      "industry": "HumanHealthAndSocialWorkActivities",
+      "values": {
+         "http://coursework.org/data/WorkforceSizeless250": "145^^http://www.w3.org/2001/XMLSchema#integer",
+         "http://coursework.org/data/Total": "294^^http://www.w3.org/2001/XMLSchema#integer",
+         "http://coursework.org/data/WorkforceSizemore250": "149^^http://www.w3.org/2001/XMLSchema#integer"
+      }
+   },
+   {
+      "industry": "CityOfArts",
+      "values": {
+         "http://coursework.org/data/WorkforceSizemore250": "303^^http://www.w3.org/2001/XMLSchema#integer",
+         "http://coursework.org/data/WorkforceSizeless250": "415^^http://www.w3.org/2001/XMLSchema#integer",
+         "http://coursework.org/data/Total": "718^^http://www.w3.org/2001/XMLSchema#integer"
+      }
+   },
+   {
+      "industry": "OtherServiceActivities",
+      "values": {
+         "http://coursework.org/data/WorkforceSizeless250": "108^^http://www.w3.org/2001/XMLSchema#integer",
+         "http://coursework.org/data/Total": "137^^http://www.w3.org/2001/XMLSchema#integer",
+         "http://coursework.org/data/WorkforceSizemore250": "29^^http://www.w3.org/2001/XMLSchema#integer"
+      }
+   },
+   {
+      "industry": "AllIndustries",
+      "values": {
+         "http://coursework.org/data/WorkforceSizemore250": "7180^^http://www.w3.org/2001/XMLSchema#integer",
+         "http://coursework.org/data/WorkforceSizeless250": "10442^^http://www.w3.org/2001/XMLSchema#integer",
+         "http://coursework.org/data/Total": "17623^^http://www.w3.org/2001/XMLSchema#integer"
+      }
+   }
+]
